@@ -14,6 +14,11 @@ type Album = {
   id: number
   title: string
   artists: Artist[]
+  is_highlighted: boolean
+  year: number | null
+  youtube: string | null
+  spotify: string | null
+  apple: string | null
 }
 
 type Group = {
@@ -39,18 +44,35 @@ export default function Home({ groups }: Props) {
         {
           groups.map((group) => (
             <div key={group.id}>
-              <h3>{group.title}</h3>
-              <ul>
+              <h3 className="mb-2">{group.title}</h3>
+              <ul className="mb-5">
                 {
                   group.albums.map((album) => (
-                    <li key={group.id + album.id}>
-                      <span>
-                        {album.artists.map(artist => artist.name).join(', ') || 'n/a'}
+                    <li
+                      key={group.id + album.id}
+                      className="pl-6"
+                    >
+                      <span className={album.is_highlighted ? 'font-bold' : ''}>
+                        <span>
+                          {album.title}
+                        </span>
+                        <span> - </span>
+                        <span>
+                          {album.artists.map(artist => artist.name).join(', ') || 'n/a'}
+                        </span>
+                        {
+                          album.year && <span> ({ album.year })</span>
+                        }
                       </span>
-                      <span> - </span>
-                      <span>
-                        {album.title}
-                      </span>
+                      {
+                        album.youtube && <a href={album.youtube} className=" text-blue-800">&nbsp;<span className="underline">youtube</span></a>
+                      }
+                      {
+                        album.spotify && <a href={album.spotify} className=" text-blue-800">&nbsp;<span className="underline">spotify</span></a>
+                      }
+                      {/* {
+                        album.apple && <a href={album.apple} className=" text-blue-800">&nbsp;<span className="underline">apple</span></a>
+                      } */}
                     </li>
                   ))
                 }
@@ -178,8 +200,13 @@ export async function getServerSideProps() {
         albums (
           id,
           title,
+          year,
           genres ( id, genre ),
-          artists ( id, name )
+          artists ( id, name ),
+          is_highlighted,
+          spotify,
+          apple,
+          youtube
         )
       `
     )
