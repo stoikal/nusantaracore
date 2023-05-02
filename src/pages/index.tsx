@@ -33,28 +33,25 @@ type Props = {
 }
 
 export default function Home({ groups }: Props) {
-  useEffect(() => {
-    console.log('===~groups~===', groups)
-  }, [groups])
-
   return (
     <>
       <Head>
         <title>Nusantaracore</title>
       </Head>
       <main
-        className="p-4"
+        className="p-4 bg-gray-900"
       >
         <div>
           {
-            groups.map((group) => (
+            groups.map((group, index) => (
               <div key={group.id}>
-                <h3 className="mb-2">{group.title}</h3>
-                <ul className="mb-5">
+                <h3 className="mb-4 text-lg">{group.title}</h3>
+                <ul className="mb-10">
                   {
                     group.albums.map((album) => (
                       <li
                         key={group.id + album.id}
+                        className="mb-1"
                       >
                         <span className={album.is_highlighted ? 'font-bold' : ''}>
                           <span>
@@ -69,10 +66,10 @@ export default function Home({ groups }: Props) {
                           }
                         </span>
                         {
-                          album.youtube && <a href={album.youtube} target="__blank" className=" text-blue-800">&nbsp;<span className="underline">youtube</span></a>
+                          album.youtube && <a href={album.youtube} target="__blank" className=" text-sky-600">&nbsp;<span className="underline">youtube</span></a>
                         }
                         {
-                          album.spotify && <a href={album.spotify} target="__blank" className=" text-blue-800">&nbsp;<span className="underline">spotify</span></a>
+                          album.spotify && <a href={album.spotify} target="__blank" className=" text-sky-600">&nbsp;<span className="underline">spotify</span></a>
                         }
                         {/* {
                           album.apple && <a href={album.apple} className=" text-blue-800">&nbsp;<span className="underline">apple</span></a>
