@@ -1,10 +1,6 @@
-import Image from 'next/image'
 import Head from 'next/head'
-import { Inter } from 'next/font/google'
 import { supabase } from './../lib/supabaseClient'
-import { useEffect } from 'react'
 
-const inter = Inter({ subsets: ['latin'] })
 
 type Artist = {
   id: number
