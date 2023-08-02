@@ -1,5 +1,6 @@
-## Pop
+# Nusantaracore
 
+## Pop
 * Kisah Pasar Baru - Orkes Lima Serama (1959) youtube
 * Sinbad - Yanti Bersaudara (1967) youtube spotify
 * Kereta Kencan - Hivi! (2017) youtube spotify
@@ -22,7 +23,6 @@
 * Lomba Cipta Lagu Remaja 1978 - Various (1978) youtube
 
 ## Rock
-
 * Kompor Meleduk - Benyamin Sueb, Ida Rojani (1970) youtube
 * Kwartet Bintang - Kwartet Bintang (1965) youtube
 * Terbaik Terbaik - Dewa 19 (1995) youtube spotify
@@ -45,7 +45,6 @@
 * Sesuatu yang Tertunda - Padi (2001) youtube spotify
 
 ## Dangdut
-
 * Lagu Gumarang Jang Terkenal - Orkes Gumarang (1960) youtube
 * Kalung Emas - Didi Kempot (2003) spotify
 * Orkes Moral Pancaran Sinar Petromak (OM PSP) - Orkes Moral Pancaran Sinar Petromak (OM PSP) (1979) spotify
@@ -67,8 +66,7 @@
 * Ekspresi Warga Indie Mixtape Vol. 1 - Prontaxan youtube
 * No-Brain Dance - Y-DRA (2019) spotify
 
-Punk/Hardcore/Post-Punk
-
+## Punk/Hardcore/Post-Punk
 * Album Minggu Ini - Netral (1998) youtube spotify
 * Diminuendo Corruption - xANJINGTANAHx (1999) youtube
 * Nothing Perfect Noise - Seek Six Sick (2017) spotify
@@ -90,8 +88,7 @@ Punk/Hardcore/Post-Punk
 * Dorr Darr Gelap Communique - Hark! It's A Crawling Tar-Tar (2006) youtube
 * Punx 'N' Skins - Runtah (1998) youtube
 
-Metal
-
+## Metal
 * Behind the 8th Ball - Rotor (1992) youtube
 * 1000 Thoughts of Violence - Kekal (2003) youtube spotify
 * III - Rajasinga (2016) spotify
@@ -113,8 +110,7 @@ Metal
 * Berbagi Kamar - Rekah (2017)
 * Gagak Pancakhrisna - Bvrtan (2018) youtube spotify
 
-Hip-hop
-
+## Hip-hop
 * monkshood - BAP. (2018) youtube
 * Barisan Nisan - Homicide (2004) spotify
 * Kompilasi Pesta Rap 1 - Various (1995) youtube spotify
@@ -136,8 +132,7 @@ Hip-hop
 * Musik Hati - Saykoji (2007) spotify
 * Melangkah - Batik Tribe (2007) youtube spotify
 
-Jazz
-
+## Jazz
 * Djanger Bali - Tony Scott & The Indonesian All-Stars (1967) youtube spotify
 * Bubi Chen and The Fabulous 5 - Bubi Chen (1962) youtube
 * Tot Licht! - Discus (2003) youtube spotify
@@ -159,8 +154,7 @@ Jazz
 * Pasar Klewer - Dwiki Dharmawan (2016) youtube spotify
 * The Evolution Ethnic: Slebar Slebor - Anane (2005) youtube
 
-Electronic
-
+## Electronic
 * Two Years After - Groove Bandit (2002) spotify
 * Keluarmalam - Riri Mestica (2004) spotify
 * Human - Mantra Vutura (2019) youtube spotify
@@ -182,8 +176,7 @@ Electronic
 * Irama Sirkadian - Biner (2020) youtube spotify
 * Love and Turbo Action - Goodnight Electric (2004) youtube spotify
 
-Folk
-
+## Folk
 * Opini - Iwan Fals (1982) spotify
 * Binfolk - Harlan (2017)
 * Happy Coda - Frau (2013) spotify
@@ -205,8 +198,7 @@ Folk
 * Bin Idris - Bin Idris (2018) spotify
 * The Wispy Hummers EP - The Wispy Hummers (2010)
 
-Noise/Ambient
-
+## Noise/Ambient
 * 60 Minutes of Harassment - Kalimayat (2007)
 * Thy Word Abideth - Mournphagy (1999)
 * Hello Kittie's Spank - Leftyfish (2018) spotify
@@ -228,8 +220,7 @@ Noise/Ambient
 * Gospels - Roman Catholic Skulls (2014)
 * Tribute To My Bloody Valentine - Indonesian Noise (2017)
 
-Indie/Shoegaze
-
+## Indie/Shoegaze
 * Pure Saturday - Pure Saturday (1996)
 * The Osaka Journals - Sajama Cut (2004) spotify
 * Tragicomedy - Polyester Embassy (2007) spotify
@@ -251,8 +242,7 @@ Indie/Shoegaze
 * Between Spaces Into Space - Flukeminimix (2015) spotify
 * Here to Stay! - Grrl Gang (2020)
 
-Traditional
-
+## Traditional
 * Genderan Srikaloka Keluarga Karawitan R.R.I Surakarta - Keluarga Karawitan R.R.I Surakarta (1976)
 * Kwangkay: Funerary Music of the Dayak Benuaq of Borneo Sublime Frequencies - n/a
 * Ludu Humba Yes No Wave Music - n/a (2017)
@@ -274,8 +264,7 @@ Traditional
 * A Visit To Borneo: Exotic Music From the Dusun, Murut and Bajau Tribes Recorded by Dr. Ivan Polunin - n/a (1961)
 * Batak Music: Toba Batak Played by Tihang Gultom Group - Tihang Gultom Group (1976) spotify
 
-Other/Misc.
-
+## Other/Misc.
 * Selected Pieces from HNNUNG - Nursalim Yadi Anugerah (2018)
 * Komposisi Kompos - DIVISI62 (2020)
 * Asmat Dream: New Music Indonesia Vol. I - Various (1989)
