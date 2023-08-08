@@ -1,38 +1,288 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Nusantaracore
 
-## Getting Started
+## Pop
+* Melayang - January Christy (1986) 
+* Sketsa Seni Musik - Kharisma Alam (1978) 
+* Penyusup Misterius dan Suara Suara Aneh dari Kamar - Belkastrelka (2010) 
+* Lomba Cipta Lagu Remaja 1978 - Various (1978) 
+* Kisah Pasar Baru - Orkes Lima Serama (1959) 
+* OST. Badai Pasti Berlalu - Eros Djarot, Chrisye, Berlian Hutauruk (1977) 
+* Tangan Tangan Setan - Nicky Astria (1985) 
+* Selamat Ulang Tahun - Nadin Amizah (2020) 
+* Gajah - Tulus (2014) 
+* Musik Pop - Maliq & D'Essentials (2014) 
+* Kereta Kencan - Hivi! (2017) 
+* Sinbad - Yanti Bersaudara (1967) 
+* Bintang di Surga - Peterpan (2004) 
+* Kinanti - Andien (2002) 
+* Mantra Mantra - Kunto Aji (2018) 
+* LEXICON - Isyana Sarasvati (2019) 
+* Hotel San Vincente - Transs (1981) 
+* Citra Ceria - Vina Panduwinata (1984) 
+* Panggung Perak - Fariz R.M. (1981) 
+* Sabda Alam - Chrisye (1978) 
 
-First, run the development server:
+## Rock
+* Kompor Meleduk - Benyamin Sueb, Ida Rojani (1970) 
+* Jang Pertama - Dara Puspita (1966) 
+* Kampungan - Slank (1991) 
+* Dheg Dheg Plas - Koes Plus (1969) 
+* Guruh Gipsy - Guruh Soekarno Putra, Band Gipsy (1977) 
+* Rock Opera Ken Arok - Harry Roesli (1977) 
+* Kaum Benalu - Black Brother (1978) 
+* Nol Derajat - Rumahsakit (2000) 
+* Crimson Eyes - Sigmun (2015) 
+* Ghede Chokra's - Shark Move (1973) 
+* Detourn - The SIGIT (2013) 
+* Kwartet Bintang - Kwartet Bintang (1965) 
+* Terbaik Terbaik - Dewa 19 (1995) 
+* Those Shocking Shaking Days - Various (2013) 
+* Insting, Psiko dan Harmoni - Plastik (1995) 
+* Titik Cerah - Naif (2002) 
+* Swami - Swami (1989) 
+* Rajakelana - Mondo Gascaro (2016) 
+* In(No)Sensation - Pas Band (1995) 
+* Sesuatu yang Tertunda - Padi (2001) 
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-```
+## Dangdut
+* Orkes Melayu Soneta - Orkes Melayu Soneta (1975) 
+* Anyar 3 - Suliana (2018) 
+* Lagu Gumarang Jang Terkenal - Orkes Gumarang (1960) 
+* Begadang - Soneta Group (1974) 
+* Django - Rhoma Irama, Elvy Sukaesih (1971) 
+* Judul-judulan - Orkes Moral Pengantar Minum Racun (1987) 
+* Orkes Moral Pancaran Sinar Petromak (OM PSP) - Orkes Moral Pancaran Sinar Petromak (OM PSP) (1979) 
+* Joget Sama-Sama - Inul Daratista (2004) 
+* Di Rumah Sadja - Rhoma Irama, Inneke Kusumawati (1971) 
+* Bergoyang Again - Barakatak (2019) 
+* Ekspresi Warga Indie Mixtape Vol. 1 - Prontaxan 
+* Kalung Emas - Didi Kempot (2003) 
+* Sound Track Film "Darah Muda" - Rhoma Irama (1973) 
+* Aku Bukan Pelakor - Dian Anic (2018) 
+* Zakia - Ahmad Albar (1979) 
+* Album Pongdut Sunda Neng Jenny - Neng Jenny (2020) 
+* Kewer Kewer - Libertaria (2016) 
+* Kartonyono Medot Janji - Denny Caknan (2019) 
+* Ditinggal Rabi - NDX AKA 
+* No-Brain Dance - Y-DRA (2019) 
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## Punk/Hardcore/Post-Punk
+* Footsteps - Vague (2014) 
+* Don’t be Sad, Don’t be Gloom The Frankenstone is Ugly - The Frankenstone (2009) 
+* In A Mess - Sugarkane (2017) 
+* Dorr Darr Gelap Communique - Hark! It's A Crawling Tar-Tar (2006) 
+* Rima Penghitam Cakrawala - Haul (2012) 
+* Punx 'N' Skins - Runtah (1998) 
+* Diminuendo Corruption - xANJINGTANAHx (1999) 
+* Ḥ∆RĀM - Ḥ∆RĀM (2019) 
+* Mystery Torpedo - The Kuda (2011) 
+* Die My Girls - Turtles JR (1997) 
+* MK II - Puppen (1998) 
+* Manufakturing Karma - Domestik Doktrin (2002) 
+* Nothing Perfect Noise - Seek Six Sick (2017) 
+* Album Minggu Ini - Netral (1998) 
+* Verba Volant, Scripta Manent - AK//47 (2015) 
+* Greatest Pledge Articles - DOM 65 (2005) 
+* Miasma Tahun Asu - BAPAK (2020) 
+* Mereka Tak Pernah Mengerti - Tipe-X (2001) 
+* Kelelawar Malam - Kelelawar Malam (2010) 
+* Fear - TOTAL JERKS (2015) 
 
-You can start editing the page by modifying `pages/index.tsx`. The page auto-updates as you edit the file.
+## Metal
+* WaHaM - Suri (2019) 
+* Berbagi Kamar - Rekah (2017) 
+* Rebuild: The Unfinished Interpretation of Irrational Behavior - Cranial Incisored (2003) 
+* The Avhath Rites - Avhath (2019) 
+* Beyond Coma and Despair - Burgerkill (2006) 
+* Behind the 8th Ball - Rotor (1992) 
+* When the Forest Become My Kingdom - Hellgods (1997) 
+* Phenomenon - SSSLOTHHH (2013) 
+* Obsesi Mati - Forgotten (2000) 
+* Suar Marabahaya - ((AUMAN)) (2012) 
+* The Head Sucker - Sucker Head (1995) 
+* Tenebrosa - Candlegoat (2014) 
+* 1000 Thoughts of Violence - Kekal (2003) 
+* III - Rajasinga (2016) 
+* Blacklight - Koil (2007) 
+* Gemuruh Musik Pertiwi - Komunal (2012) 
+* Black Clouds Gathering - Vallendusk (2013) 
+* Taring - Seringai (2012) 
+* March On Gravitation - Fromhell (2016) 
+* Gagak Pancakhrisna - Bvrtan (2018) 
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.ts`.
+## Hip-hop
+* Alit Da Baong - Kungpao Chicken (2004) 
+* Vulgar - Joe Million (2016) 
+* eighteen slingshots - Madrotter (2005) 
+* monkshood - BAP. (2018) 
+* Fateh - Morgue Vanguard X Still (2014) 
+* Bunga Trotoar - Boyz Got No Brain (2017) 
+* Hurje! Maka Merapallah Zarathustra - Pangalo! (2018) 
+* Demi Masa - Morgue Vanguard X Doyz (2018) 
+* Album Terbaik di Tata Surya - Mamang Kesbor (2020) 
+* Ground Space - whoosah (2018) 
+* Musik Hati - Saykoji (2007) 
+* Melangkah - Batik Tribe (2007) 
+* Pusara Pustaka: Antologi Doa dan Kutukan - Cosmicburp (2020) 
+* Jutassic Park III: Satir - Juta (2017) 
+* Barisan Nisan - Homicide (2004) 
+* Kompilasi Pesta Rap 1 - Various (1995) 
+* Waktu Bicara - Laze (2018) 
+* CARAKARANTINA - A. Nayaka (2020) 
+* Swagton Nirojim - Krowbar (2018) 
+* Respect - Bondan Prakoso, Fade2Black (2005) 
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+## Jazz
+* Merapi - André Jaume with Sapto Raharjo Gamelan Orchestra (1996) 
+* Malaikat dan Zoo - Malaikat dan Zoo (2018) 
+* Bubi Chen and The Fabulous 5 - Bubi Chen (1962) 
+* Sahabat Lama - Humania (1996) 
+* Kecuali Mengenang Betismu - Sungsang Lebam Telak (2007) 
+* And So It Begins - Eva Celia (2016) 
+* Lima - Karimata (1987) 
+* Modinha - Rubina (2020) 
+* Tot Licht! - Discus (2003) 
+* The Evolution Ethnic: Slebar Slebor - Anane (2005) 
+* Api Asmara - Rien Djamain (1975) 
+* My Favorite Things - Joey Alexander (2015) 
+* Reborn - Indra Lesmana (2000) 
+* Djanger Bali - Tony Scott & The Indonesian All-Stars (1967) 
+* Save the Planet - Tohpati Ethnomission (2010) 
+* Benua yang Sunyi - Garna Ra (2014) 
+* Mahandini - Dewa Budjana (2018) 
+* Syair Dunia Maya - Sudjiwo Tedjo 
+* It's All Yours - Tesla Manaf, Mahagotra Ganesha (2011) 
+* Pasar Klewer - Dwiki Dharmawan (2016) 
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+## Electronic
+* Parakosmos - Bottlesmoker (2017) 
+* ɹǝdǝʇᴉʇᴉʌǝ qlᴉss - Fahmi Mursyid (2018) 
+* Moda Ekuator Dead Papaya - Various (2020) 
+* Runaway - Logic Lost (2015) 
+* MBIRING MANGGIS - REMIX KARO (2007) 
+* Re:Construction - Vladvamp (2017) 
+* Bumi Uthiri - Uwalmassa (2018) 
+* Tabuh Langit Tanduk Jawara - Setabuhan (2018) 
+* Keluarmalam - Riri Mestica (2004) 
+* HMGNC - HMGNC (2017) 
+* 2004 - The Upstairs (2004) 
+* Dentum Dansa Bawah Tanah - Various (2015) 
+* Two Years After - Groove Bandit (2002) 
+* Chapter 01: The Begining - Media Distorsi (2002) 
+* Puxxximaxxx - Gabber Modus Operandi (2018) 
+* Human - Mantra Vutura (2019) 
+* Megamix Album: Koplo Goes to Breakcore - TerbujurKaku (2010) 
+* Raja Kirik - Yennu Ariendra, J Moong Santoso Pribadi (2018) 
+* Irama Sirkadian - Biner (2020) 
+* Love and Turbo Action - Goodnight Electric (2004) 
 
-## Learn More
+## Folk
+* Binfolk - Harlan (2017) 
+* Orexas - Remy Sylado (1978) 
+* Sengketa Keraton Demak - Johnny Alexander (1978) 
+* Sejuta Kabut - Kalikausar (1979) 
+* Eloi! Lama Sabactani! - Inpres I/V/'80 (1980) 
+* Sekar Mayang - Gombloh and Lemon Tree's Anno '69 (1981) 
+* The Wispy Hummers EP - The Wispy Hummers (2010) 
+* Mencari Tuhan - Kelompok Kampungan (1980) 
+* La Marupe - Theory of Discoustic (2018) 
+* Roekmana's Repertoire - Tigapagi (2013) 
+* Happy Coda - Frau (2013) 
+* Fajar di Atas Awan - Suarasama (1998) 
+* Renjana - Rabu (2014) 
+* Zaman, Zaman - The Trees and The Wild (2016) 
+* Opini - Iwan Fals (1982) 
+* Yang Patah Tumbuh, Yang Hilang Berganti - Banda Neira (2015) 
+* Semakbelukar - Semakbelukar (2013) 
+* Dosa, Kota, dan Kenangan - Silampukau (2015) 
+* Sekilas Info - Jason Ranti (2019) 
+* Bin Idris - Bin Idris (2018) 
 
-To learn more about Next.js, take a look at the following resources:
+## Noise/Ambient
+* Thy Word Abideth - Mournphagy (1999) 
+* Defecation Delayed - Individual Distortion (2011) 
+* INDONOISIA: Indonesian Noise & Experimental Sounds - Various (2016) 
+* Without The Face - Division Fracture (2016) 
+* Grow - Sarana (2018) 
+* Joe Million X Indra Menus - Joe Million X Indra Menus (2019) 
+* 2 Way Split - Aneka Digital Safari X Bergegas Mati (2017) 
+* Space Brothers - ASU(USA) (2018) 
+* Windows of Burnt Down Houses EP - Concrete Aluminium (2011) 
+* Please Wait For Me, Please Wait Forever - Strange Mountain (2019) 
+* Durjana Saya Sempurna - Udanwatu (2013) 
+* Sounds from Samarinda Sound Collage - Various (2016) 
+* The Problem is Society, Or Me? - Bergegas Mati (2020) 
+* Gospels - Roman Catholic Skulls (2014) 
+* Tribute To My Bloody Valentine - Indonesian Noise (2017) 
+* 60 Minutes of Harassment - Kalimayat (2007) 
+* Studio Sessions 2016 - Rully Shabara's Gaung Jagat Ensembles (2017) 
+* Black Shirts Attracts More Feathers - KUNTARI (2020) 
+* Pekak! Indonesian Noise 1995-2015: 20 Years of Experimental Music from Indonesia - Various (2015) 
+* Hello Kittie's Spank - Leftyfish (2018) 
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## Indie/Shoegaze
+* Pure Saturday - Pure Saturday (1996) 
+* Space in the Headlines - Zeke and The Popo (2007) 
+* Holy Noise: Indonesian Shoegazer Compilation - Various (2015) 
+* Here to Stay! - Grrl Gang (2020) 
+* Kamar Gelap - Efek Rumah Kaca (2008) 
+* ABC on TV - Annemarie (2007) 
+* Murphy Radio - Murphy Radio (2018) 
+* Tragicomedy - Polyester Embassy (2007) 
+* Geography - Bedchamber (2018) 
+* Bandempo - Bandempo (2000) 
+* Balada Joni dan Susi - Melancholic Bitch (2009) 
+* The Osaka Journals - Sajama Cut (2004) 
+* Vol. I - The Sastro (2005) 
+* Planetarium - Jirapah (2019) 
+* Ports of Lima - Sore (2008) 
+* Ode Buat Kota - Bangkutaman (2010) 
+* The Very First Thing You Must Learn About Flying is Gravity - Everybody Loves Irene (2004) 
+* Curiouser and Curiouser - Santamonica (2007) 
+* Paraparlor - Sharesprings (2018) 
+* Between Spaces Into Space - Flukeminimix (2015) 
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+## Traditional
+* Batak Music: Toba Batak Played by Tihang Gultom Group - Tihang Gultom Group (1976) 
+* Genderan Srikaloka Keluarga Karawitan R.R.I Surakarta - Keluarga Karawitan R.R.I Surakarta (1976) 
+* Kwangkay: Funerary Music of the Dayak Benuaq of Borneo Sublime Frequencies 
+* Jathilan Ojo Sembrono Kudo Praneso Unheard Indonesia Archival 
+* Upit Sarimanah - Upit Sarimanah 
+* Gamelan Music For Dancing - Orkes Kesenian Djawa Jogjakarta Madio Laras 
+* Djammul-Hiba - Rofiqoh Dharto Wahab, Gambus El Djihad 
+* Ludu Humba Yes No Wave Music (2017) 
+* Mahesa Djenar - Waldjinah (1966) 
+* Music of Indonesia, Vol. 19: Music of Maluku: Halmahera, Buru, Kei Smithsonian Folkways (1999) 
+* Music of Sulawesi: Celebes, Indonesia Recorded by Eric and Catherine Crystal (1973) 
+* Kecak Ganda Sari I Gusti Putu Putra (1990) 
+* Indonésie: Chants de Biboki (Timor Occidental) - Indonesia: Songs Of Biboki (2011) 
+* A Visit To Borneo: Exotic Music From the Dusun, Murut and Bajau Tribes Recorded by Dr. Ivan Polunin (1961) 
+* Muo remé—Dance of the Cassowary. The Anceaux collection (2002) 
+* K.R.T Wasitodiningrat Javanese Court Gamelan From the Pura Paku Alaman, Jogjakarta (1971) 
+* Music of Indonesia, Vol. 3: Music from the Outskirts of Jakarta: Gambang Kromong (1991) 
+* Music of Indonesia, Vol. 6: Night Music of West Sumatra (1991) 
+* Tembang Sunda Cianjur - Lingkungan Seni Malati Ida (1994) 
+* Music of Indonesia, Vol. 8: Vocal and Instrumental Music from East and Central Flores Smithsonian Folkways (1995) 
 
-## Deploy on Vercel
+## Other/Misc.
+* Komposisi Kompos - DIVISI62 (2020) 
+* Asmat Dream: New Music Indonesia Vol. I - Various (1989) 
+* Pasaraya - Sawi Lieu (2013) 
+* malhama al kubra - ஜ۩۩۩۩ஜ (2017) 
+* Indonesia - Yngel, Various (2018) 
+* Sonic Code - Fahmi Mursyid (2020) 
+* A LT O/P A N - Mahesa Almeida (2018) 
+* Antara Dapur dan Lingkungannya - Wukir Suryadi (2015) 
+* Four Indonesian Electronic Pieces 1979 - 1984 - Otto Sidharta (2017) 
+* Sujud - Senyawa (2018) 
+* Wanci - Tarawangsawelas (2017) 
+* Sad Ripu - Saaba (2018) 
+* Pop Jawa Jenaka - Doel Kamdi & Blo'on Group 
+* Gerbang Kerajaan Serigala - Karinding Attack (2012) 
+* Selected Pieces from HNNUNG - Nursalim Yadi Anugerah (2018) 
+* Gamelan Cage - John Cage, Sanggar Ceraken of Bali (2013) 
+* Kiser Kenamaan - Lair (2019) 
+* Langkah Pertama - Igor Tamerlan (1981) 
+* Dunia Milik Kita - Dialita (2016) 
+* Trilogi Peradaban - Zoo (2009) 
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
