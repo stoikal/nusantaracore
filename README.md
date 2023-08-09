@@ -290,5 +290,5 @@
 &nbsp;
 &nbsp;
 ### Curated by
-Twitter: @fthrrhmn31
-Spotify: Aditya Fathurrahman
+Twitter: @fthrrhmn31  
+Spotify: Aditya Fathurrahman 
