@@ -286,4 +286,9 @@
 * Dunia Milik Kita - Dialita (2016) [youtube](https://youtu.be/_XYaR8gXc6A) [spotify](https://open.spotify.com/album/05hqxKXNVkQKwEp8zAtTiw?si=G9QE9_RRRPmxgYD-nxMNpg) 
 * Trilogi Peradaban - Zoo (2009) [youtube](https://youtube.com/playlist?list=PLrCpEL9ZPKvuwvThS6DoS1WEugskIy5Mt) [spotify](https://open.spotify.com/album/0T1B3i85zWCADvZLb6R6pv?si=phyztuT0QV60dTlfaHqQhA) 
 
-@fthrrhmn31
+&nbsp;
+&nbsp;
+&nbsp;
+### Curated by
+Twitter: @fthrrhmn31
+Spotify: Aditya Fathurrahman
