@@ -1,3 +1,4 @@
+import 'dotenv/config'
 import getData from './lib/getData.js'
 import generateMd from './lib/generateMd.js'
 import generateHtml from './lib/generateHtml.js'
