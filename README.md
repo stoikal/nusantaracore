@@ -3,7 +3,6 @@
 ## Pop
 * Melayang - January Christy (1986) [youtube](https://youtu.be/i7EWKr3L4tc) 
 * Sketsa Seni Musik - Kharisma Alam (1978) 
-* Penyusup Misterius dan Suara Suara Aneh dari Kamar - Belkastrelka (2010) 
 * Kisah Pasar Baru - Orkes Lima Serama (1959) [youtube](https://youtu.be/bR7xH334ccU) 
 * OST. Badai Pasti Berlalu - Eros Djarot,Chrisye,Berlian Hutauruk (1977) [youtube](https://youtube.com/playlist?list=PL6LTJYg7-LIgdCrH5RYyVFEhgTqFQpTze) 
 * Tangan Tangan Setan - Nicky Astria (1985) [youtube](https://youtu.be/qf7s_3oJ4P8) 
@@ -21,6 +20,7 @@
 * Panggung Perak - Fariz R.M. (1981) [youtube](https://youtu.be/pXSbc0i0664) [spotify](https://open.spotify.com/album/3GkQHgrD0HJf2Fsfv4iNml?si=DnEAFrINSa2kwSDkFlM1MA) 
 * Sabda Alam - Chrisye (1978) [youtube](https://youtu.be/ineix5ZjA_M) [spotify](https://open.spotify.com/album/17yT1ewdeDHSLRJXMoqwLm?si=sbCJrg0YQ6iERoYzV3h2rQ) 
 * **Lomba Cipta Lagu Remaja 1978 - Various (1978)** [youtube](https://youtu.be/PxvFNtSqYmg) 
+* Penyusup Misterius dan Suara Suara Aneh dari Kamar - Belkastrelka (2010) [yes_no_wave](http://yesnowave.com/releases/yesno052/) 
 
 ## Rock
 * **Kompor Meleduk - Benyamin Sueb,Ida Rojani (1970)** [youtube](https://youtu.be/ihDPf-zmoOQ) 
@@ -45,7 +45,6 @@
 * Sesuatu yang Tertunda - Padi (2001) [youtube](https://youtu.be/2arjFa_65tg) [spotify](https://open.spotify.com/album/6mkU1z9nlxjLcmFHz7TsX1?si=tIhTen8QQ56M6jCzHlbFgQ) 
 
 ## Dangdut
-* Orkes Melayu Soneta - Orkes Melayu Soneta (1975) 
 * Anyar 3 - Suliana (2018) 
 * Lagu Gumarang Jang Terkenal - Orkes Gumarang (1960) [youtube](https://youtube.com/playlist?list=PLHwRnpmD_WofndApHX-EYVxhEKB1O7zWV) 
 * Begadang - Soneta Group (1974) [youtube](https://youtu.be/ZkfsmlXczRI) 
@@ -56,6 +55,7 @@
 * Di Rumah Sadja - Rhoma Irama,Inneke Kusumawati (1971) [youtube](https://youtu.be/xQkqsGNTeSw) 
 * Bergoyang Again - Barakatak (2019) [spotify](https://open.spotify.com/album/7MQOo8sp6h2MRu1e8qtBYa?si=-SQHQDXNQUm4gULXOssbnQ) 
 * Ekspresi Warga Indie Mixtape Vol. 1 - Prontaxan [youtube](https://youtu.be/YqYZeOnPsRY) 
+* Orkes Melayu Soneta - Orkes Melayu Soneta (1975) 
 * Kalung Emas - Didi Kempot (2003) [spotify](https://open.spotify.com/album/7dYJW3bJWGs8pWrEeC1Lku?si=HcprnfQuR5yrwq77IgP8ng) 
 * **Sound Track Film "Darah Muda" - Rhoma Irama (1973)** [youtube](https://youtu.be/I8G6ePqvbPs) 
 * Aku Bukan Pelakor - Dian Anic (2018) [youtube](https://youtu.be/wuvep-Ds7bo) [spotify](https://open.spotify.com/album/77OxsPDe3kp5rp9arSiOo4?si=So95P27pRW2m3ZZU8XVwbQ) 
