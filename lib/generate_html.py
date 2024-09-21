@@ -1,8 +1,9 @@
 from jinja2 import Environment, FileSystemLoader
 from config import config
+import jinja2htmlcompress 
 
 loader = FileSystemLoader('./template')
-environment = Environment(loader=loader, trim_blocks=True)
+environment = Environment(loader=loader, trim_blocks=True, extensions=['jinja2htmlcompress.HTMLCompress'])
 
 template = environment.get_template('index.html.jinja')
 
