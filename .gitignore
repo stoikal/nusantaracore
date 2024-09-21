@@ -33,3 +33,11 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# PYTHON
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+
+# Environments
+.venv
