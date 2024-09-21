@@ -5,5 +5,7 @@ import sys
 sys.path.append('./lib/')
 
 from get_data import get_data
+from generate_md import generate_md
 
-get_data()
+data = get_data()
+generate_md(data)

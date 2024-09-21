@@ -4,7 +4,7 @@
 * Melayang - January Christy (1986) [youtube](https://youtu.be/i7EWKr3L4tc) 
 * Sketsa Seni Musik - Kharisma Alam (1978) 
 * Kisah Pasar Baru - Orkes Lima Serama (1959) [youtube](https://youtu.be/bR7xH334ccU) 
-* OST. Badai Pasti Berlalu - Eros Djarot,Chrisye,Berlian Hutauruk (1977) [youtube](https://youtube.com/playlist?list=PL6LTJYg7-LIgdCrH5RYyVFEhgTqFQpTze) 
+* OST. Badai Pasti Berlalu - Eros Djarot, Chrisye, Berlian Hutauruk (1977) [youtube](https://youtube.com/playlist?list=PL6LTJYg7-LIgdCrH5RYyVFEhgTqFQpTze) 
 * Tangan Tangan Setan - Nicky Astria (1985) [youtube](https://youtu.be/qf7s_3oJ4P8) 
 * Selamat Ulang Tahun - Nadin Amizah (2020) [youtube](https://youtu.be/R2eCvoFMmNE) [spotify](https://open.spotify.com/album/75KyCmWatZRvlMcMRed9BG) 
 * Gajah - Tulus (2014) [youtube](https://open.spotify.com/album/0d5mFusjnb62TQWBft3zc6) [spotify](https://open.spotify.com/album/0d5mFusjnb62TQWBft3zc6) 
@@ -23,11 +23,11 @@
 * Penyusup Misterius dan Suara Suara Aneh dari Kamar - Belkastrelka (2010) [yes_no_wave](http://yesnowave.com/releases/yesno052/) 
 
 ## Rock
-* **Kompor Meleduk - Benyamin Sueb,Ida Rojani (1970)** [youtube](https://youtu.be/ihDPf-zmoOQ) 
+* **Kompor Meleduk - Benyamin Sueb, Ida Rojani (1970)** [youtube](https://youtu.be/ihDPf-zmoOQ) 
 * Jang Pertama - Dara Puspita (1966) [youtube](https://youtu.be/F9a4CYOamH8) 
 * Kampungan - Slank (1991) [youtube](https://youtu.be/0AHW41xqZ0g) [spotify](https://open.spotify.com/album/3YHW7wiCcVAScnPcqCfrYv?si=rayf-UksR6ezDF9sJpObKw) 
 * Dheg Dheg Plas - Koes Plus (1969) [youtube](https://youtu.be/KV2ylvVlaZ0) 
-* **Guruh Gipsy - Guruh Soekarno Putra,Band Gipsy (1977)** [youtube](https://youtu.be/7TA3PLQ9Kjc) 
+* **Guruh Gipsy - Guruh Soekarno Putra, Band Gipsy (1977)** [youtube](https://youtu.be/7TA3PLQ9Kjc) 
 * Rock Opera Ken Arok - Harry Roesli (1977) [youtube](https://youtu.be/vr0VkQpsHz0) [spotify](https://open.spotify.com/album/5mDab69mcUBnEATKqpHGAp?si=s8zqKLHBS-65CnUrPf_hrQ) 
 * Kaum Benalu - Black Brother (1978) 
 * Nol Derajat - Rumahsakit (2000) [youtube](https://youtu.be/unwzUvKE6Mg) [spotify](https://open.spotify.com/album/79HenduAxtzqwIznxHKJ8F?si=_md1QJoaRza8a3bMREGpWw) 
@@ -48,11 +48,11 @@
 * Anyar 3 - Suliana (2018) 
 * Lagu Gumarang Jang Terkenal - Orkes Gumarang (1960) [youtube](https://youtube.com/playlist?list=PLHwRnpmD_WofndApHX-EYVxhEKB1O7zWV) 
 * Begadang - Soneta Group (1974) [youtube](https://youtu.be/ZkfsmlXczRI) 
-* Django - Rhoma Irama,Elvy Sukaesih (1971) [youtube](https://youtu.be/s-aez8tQxsA) 
+* Django - Rhoma Irama, Elvy Sukaesih (1971) [youtube](https://youtu.be/s-aez8tQxsA) 
 * Judul-judulan - Orkes Moral Pengantar Minum Racun (1987) [youtube](https://youtu.be/ZqkJuiYbkyk) 
 * **Orkes Moral Pancaran Sinar Petromak (OM PSP) - Orkes Moral Pancaran Sinar Petromak (OM PSP) (1979)** [spotify](https://open.spotify.com/album/77PKxqg92XXIFLjHAUhX59?si=819vYuhVRQecHYnqz9uezw) 
 * Joget Sama-Sama - Inul Daratista (2004) [youtube](https://youtu.be/t_pcdY2fjXY) [spotify](https://open.spotify.com/album/1o6iAbGCTGgHQLLRVsEDkD?si=ekdxZejySEytAjP14iee2g) 
-* Di Rumah Sadja - Rhoma Irama,Inneke Kusumawati (1971) [youtube](https://youtu.be/xQkqsGNTeSw) 
+* Di Rumah Sadja - Rhoma Irama, Inneke Kusumawati (1971) [youtube](https://youtu.be/xQkqsGNTeSw) 
 * Bergoyang Again - Barakatak (2019) [spotify](https://open.spotify.com/album/7MQOo8sp6h2MRu1e8qtBYa?si=-SQHQDXNQUm4gULXOssbnQ) 
 * Ekspresi Warga Indie Mixtape Vol. 1 - Prontaxan [youtube](https://youtu.be/YqYZeOnPsRY) 
 * Orkes Melayu Soneta - Orkes Melayu Soneta (1975) 
@@ -130,7 +130,7 @@
 * Waktu Bicara - Laze (2018) [youtube](https://youtube.com/playlist?list=PL-PauKtmPUNVf_AjiSvJ3zjpmaTwO7xNm) [spotify](https://open.spotify.com/album/6GqnQON3At27pRDADFgBQf?si=RbSZLZZ-TIm2SY96wq-SNw) 
 * CARAKARANTINA - A. Nayaka (2020) [youtube](https://youtube.com/playlist?list=PL9SaDv-hSIXhUo2N87bSu9YkgmMGu9iJK) [spotify](https://open.spotify.com/album/5SHfTDQ6ojLQtsc96E4mgJ?si=0f-Vunn4RzWYUMiqkf7GYQ) 
 * **Swagton Nirojim - Krowbar (2018)** [youtube](https://youtu.be/u15ioz1DQeA) [spotify](https://open.spotify.com/album/2n0aOmvEb9HSR8Wnp9JpZr?si=FeY3BJxMTc-grZPJZXCrlQ) 
-* Respect - Bondan Prakoso,Fade2Black (2005) [youtube](https://youtu.be/DTIOdfMSB6w) [spotify](https://open.spotify.com/album/3gm1dJEZwWDwvYRPQu33qi?si=qjb81nA5QhWSKOBq-ejjVw) 
+* Respect - Bondan Prakoso, Fade2Black (2005) [youtube](https://youtu.be/DTIOdfMSB6w) [spotify](https://open.spotify.com/album/3gm1dJEZwWDwvYRPQu33qi?si=qjb81nA5QhWSKOBq-ejjVw) 
 
 ## Jazz
 * Merapi - André Jaume with Sapto Raharjo Gamelan Orchestra (1996) 
@@ -151,7 +151,7 @@
 * Benua yang Sunyi - Garna Ra (2014) [youtube](https://youtube.com/playlist?list=OLAK5uy_lzjrSaAjyq-bU-e7vKbNmwYO6zs-sQn_o) [spotify](https://open.spotify.com/album/3ntscRIOiJdJQXruDTGKHc?si=tIPqH3_xQ1qXbQoPPUgnvg) 
 * Mahandini - Dewa Budjana (2018) [spotify](https://open.spotify.com/album/4BpLdqrYzD7iLCZXOzXwaq?si=ez3KaZMCS16kSV1QhDtUhg) 
 * Syair Dunia Maya - Sudjiwo Tedjo [youtube](https://youtube.com/playlist?list=PLcRE5vg9c8bbPve7bT48XLBr_zIeSKTj8) [spotify](https://open.spotify.com/album/46XcO6fP3BjZrTL1LoReEN?si=nqHhDGUnQ767AuuoM1wrag) 
-* It's All Yours - Tesla Manaf,Mahagotra Ganesha (2011) [youtube](https://youtu.be/PyImkRWJpjY) [spotify](https://open.spotify.com/album/7vkhqIVUq9ifMVodrnAoqw?si=F5AYW7hHSFeA4Ez5u0flQQ) 
+* It's All Yours - Tesla Manaf, Mahagotra Ganesha (2011) [youtube](https://youtu.be/PyImkRWJpjY) [spotify](https://open.spotify.com/album/7vkhqIVUq9ifMVodrnAoqw?si=F5AYW7hHSFeA4Ez5u0flQQ) 
 * Pasar Klewer - Dwiki Dharmawan (2016) [youtube](https://youtube.com/playlist?list=OLAK5uy_mc11eu8Z4yhMPfTUdjoHuMP7T-1LRH26s) [spotify](https://open.spotify.com/album/0pZjZmU0H1VcaDtW2BKQK0?si=CBxsczXoSue1R77pDYCfWg) 
 
 ## Electronic
@@ -172,7 +172,7 @@
 * **Puxxximaxxx - Gabber Modus Operandi (2018)** [spotify](https://open.spotify.com/album/2culL9pTUbpoVNWDdS3Xed?si=inHXCQW_S46A-DRJmimWvw) 
 * Human - Mantra Vutura (2019) [youtube](https://youtu.be/E7fOJEKUyv0) [spotify](https://open.spotify.com/album/0cOYrWgHiJcHiSHMMD4wXM?si=C9_3W9wGTtutNh7kax__Yw) 
 * Megamix Album: Koplo Goes to Breakcore - TerbujurKaku (2010) [youtube](https://youtu.be/UUyYtXciazQ) 
-* Raja Kirik - Yennu Ariendra,J Moong Santoso Pribadi (2018) [youtube](https://youtube.com/playlist?list=PLhp_ezh8dpAn6yWZC0DKWy6OxVPmHjegK) [spotify](https://open.spotify.com/album/0fzYY8CqqgwFeeOm823Gfu?si=QVeo10XORdy3jFbhmAm98w) 
+* Raja Kirik - Yennu Ariendra, J Moong Santoso Pribadi (2018) [youtube](https://youtube.com/playlist?list=PLhp_ezh8dpAn6yWZC0DKWy6OxVPmHjegK) [spotify](https://open.spotify.com/album/0fzYY8CqqgwFeeOm823Gfu?si=QVeo10XORdy3jFbhmAm98w) 
 * Irama Sirkadian - Biner (2020) [youtube](https://youtube.com/playlist?list=PL4LrBzhMZ01c4PrumaYjc-4CL-L75rMCg) [spotify](https://open.spotify.com/album/2wQNEX6qb7OZGsRADrzikZ?si=2ZlyjZj1QRaxykCCs6RhoA) 
 * Love and Turbo Action - Goodnight Electric (2004) [youtube](https://youtube.com/playlist?list=PLrCpEL9ZPKvvWyLMn7CbBMY3MUR_zY0A9) [spotify](https://open.spotify.com/album/5Npg1T6dJZa81yj1cQaGFt?si=h2jLThLrRumR3Qe4S1Boww) 
 
@@ -249,7 +249,7 @@
 * Jathilan Ojo Sembrono Kudo Praneso Unheard Indonesia Archival  
 * Upit Sarimanah - Upit Sarimanah 
 * Gamelan Music For Dancing - Orkes Kesenian Djawa Jogjakarta Madio Laras 
-* Djammul-Hiba - Rofiqoh Dharto Wahab,Gambus El Djihad 
+* Djammul-Hiba - Rofiqoh Dharto Wahab, Gambus El Djihad 
 * **Ludu Humba Yes No Wave Music  (2017)** 
 * Mahesa Djenar - Waldjinah (1966) 
 * Music of Indonesia, Vol. 19: Music of Maluku: Halmahera, Buru, Kei Smithsonian Folkways  (1999) [spotify](https://open.spotify.com/album/2B3iK0NoNJrH7JJc4E6Q1w?si=hjToxKgoQZCpVuGYcdEoPQ) 
@@ -269,7 +269,7 @@
 * Asmat Dream: New Music Indonesia Vol. I - Various (1989) 
 * Pasaraya - Sawi Lieu (2013) 
 * malhama al kubra - ஜ۩۩۩۩ஜ (2017) 
-* Indonesia - Yngel,Various (2018) 
+* Indonesia - Yngel, Various (2018) 
 * Sonic Code - Fahmi Mursyid (2020) 
 * A LT O/P A N - Mahesa Almeida (2018) 
 * Antara Dapur dan Lingkungannya - Wukir Suryadi (2015) 
@@ -280,7 +280,7 @@
 * Pop Jawa Jenaka - Doel Kamdi & Blo'on Group [youtube](https://youtu.be/z_beXwfb3fE) 
 * Gerbang Kerajaan Serigala - Karinding Attack (2012) [youtube](https://youtu.be/Q33T9UUJCpA) 
 * **Selected Pieces from HNNUNG - Nursalim Yadi Anugerah (2018)** 
-* Gamelan Cage - John Cage,Sanggar Ceraken of Bali (2013) [spotify](https://open.spotify.com/album/3Jv86I6HNXFJnoeDoNFpUA?si=r0XVJ6AoTi6GVqgc4VLw0g) 
+* Gamelan Cage - John Cage, Sanggar Ceraken of Bali (2013) [spotify](https://open.spotify.com/album/3Jv86I6HNXFJnoeDoNFpUA?si=r0XVJ6AoTi6GVqgc4VLw0g) 
 * Kiser Kenamaan - Lair (2019) [spotify](https://open.spotify.com/album/4pJmd1WQM0GHyRltRsmTmy?si=mwI56jhDTY-nlKMgv_sCjA) 
 * Langkah Pertama - Igor Tamerlan (1981) [youtube](https://youtu.be/0SaoklQXC_Q) [spotify](https://open.spotify.com/album/7zTP2BW4CeBbhEII359lMd?si=zU3xgWz0Q1umu6s4-gOsMA) 
 * Dunia Milik Kita - Dialita (2016) [youtube](https://youtu.be/_XYaR8gXc6A) [spotify](https://open.spotify.com/album/05hqxKXNVkQKwEp8zAtTiw?si=G9QE9_RRRPmxgYD-nxMNpg) 
