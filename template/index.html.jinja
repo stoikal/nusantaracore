@@ -1,0 +1,29 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <title>{{ title }}</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <style>body { background: #0c0a09; color: white } li { margin-bottom: 8px; } </style>
+</head>
+<body>
+    <h1>{{ title }}</h1>
+    {% for group in groups %}
+        <h2>{{ group.title }}</h2>
+        <ul>
+            {% for album in group.albums %}
+                <li>
+                    <span>{{ album.title }}</span>
+
+                    {% for artist in album.artists %}
+                        {% if loop.first %}
+                            - 
+                        {% endif%}
+                        <span>{{ artist.name }}</span>
+                    {% endfor %}
+                </li>
+            {% endfor %}
+        </ul>
+    {% endfor %}
+</body>
+</html>
