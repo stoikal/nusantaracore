@@ -1,5 +1,3 @@
-import sys
-sys.path.append('../')
 from config import config
 
 def generate_md(data):
