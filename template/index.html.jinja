@@ -4,26 +4,113 @@
     <meta charset="utf-8">
     <title>{{ title }}</title>
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <style>body { background: #0c0a09; color: white } li { margin-bottom: 8px; } </style>
+    <style>
+        body {
+            background: #fafafa;
+            color: #252525 
+        }
+        h1 {
+            margin-bottom: 2.5rem;
+        }
+        article {
+            margin-bottom: 2.5rem;
+        }
+        li {
+            margin-bottom: 8px;
+        }
+        table, th, td {
+            border: 1px solid currentColor;
+            border-collapse: collapse;
+        }
+        th, td {
+            padding: .3rem .5rem;
+        }
+        footer {
+            margin-bottom: 2rem;
+        }
+        .container {
+            max-width: 1000px;
+            margin: 0 auto;
+        }
+        .text-center {
+            text-align: center;
+        }
+    </style>
 </head>
 <body>
-    <h1>{{ title }}</h1>
-    {% for group in groups %}
-        <h2>{{ group.title }}</h2>
-        <ul>
-            {% for album in group.albums %}
-                <li>
-                    <span>{{ album.title }}</span>
+    <div class="container">
+        <main>
+            <h1>{{ title|upper }}</h1>
+            {% for group in groups %}
+                <article>
+                    <h2>{{ group.title }}</h2>
+                    <table width="100%">
+                        <thead>
+                            <tr>
+                                <th width="20"></th>
+                                <th width="300">Title</th>
+                                <th width="300">Artist(s)</th>
+                                <th width="60">Release</th>
+                                <th width="70">Youtube</th>
+                                <th width="60">Spotify</th>
+                                <th width="100">Yes No Wave</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            {% for album in group.albums %}
+                                <tr>
+                                    <td class="text-center">
+                                        {% if album.is_highlighted %}
+                                            &#9733;
+                                        {% endif %}
+                                    </td>
+                                    <td>
+                                        {{ album.title }}
+                                    </td>
+                                    <td>
 
-                    {% for artist in album.artists %}
-                        {% if loop.first %}
-                            - 
-                        {% endif%}
-                        <span>{{ artist.name }}</span>
-                    {% endfor %}
-                </li>
+                                        {% for artist in album.artists %}
+                                            <span>{{ artist.name }}</span>
+                                            {% if not loop.last %}
+                                                ,&nbsp;
+                                            {% endif%}
+                                        {% endfor %}
+                                    </td>
+                                    <td class="text-center">
+                                        {% if album.year %}
+                                            <span>{{ album.year }}</span>
+                                        {% endif%}
+                                    </td>
+                                    <td class="text-center">
+                                        {% if album.youtube %}
+                                            <a href="{{ album.youtube }}">youtube</a>
+                                        {% endif%}
+                                    </td>
+                                    <td class="text-center">
+                                        {% if album.spotify %}
+                                            <a href="{{ album.spotify }}">spotify</a>
+                                        {% endif%}
+                                    </td>
+                                    <td class="text-center">
+                                        {% if album.yes_no_wave %}
+                                            <a href="{{ album.yes_no_wave }}">yes_no_wave</a>
+                                        {% endif%}
+                                    </td>
+                                </tr>
+                            {% endfor %}
+                        </tbody>
+                    </table>
+                </article>
             {% endfor %}
-        </ul>
-    {% endfor %}
+        </main>
+        <footer>
+            <h3>Curated by</h3>
+            <p>
+                <span>Twitter: @fthrrhmn31</span>
+                <br>
+                <span>Spotify: Aditya Fathurrahman</span>
+            </p>
+        </footer>
+    </div>
 </body>
 </html>
