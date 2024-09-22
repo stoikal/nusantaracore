@@ -7,19 +7,27 @@
     <style>
         body {
             background: #fafafa;
-            color: #252525 
+            color: #252525;
+            font-family: "Montserrat", sans-serif;
+            font-optical-sizing: auto;
+            font-weight: 400;
+            font-style: normal;
+        }
+        main {
+            margin-bottom: 3rem;
         }
         h1 {
-            margin-bottom: 2.5rem;
+            margin-bottom: 2rem;
         }
         article {
-            margin-bottom: 2.5rem;
+            padding-top: .5rem;
+            margin-bottom: 2rem;
         }
         li {
             margin-bottom: 8px;
         }
         table, th, td {
-            border: 1px solid currentColor;
+            border: 1px solid #a2a9b1;
             border-collapse: collapse;
         }
         th, td {
@@ -36,14 +44,17 @@
             text-align: center;
         }
     </style>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap" rel="stylesheet">
 </head>
 <body>
     <div class="container">
         <main>
-            <h1>{{ title|upper }}</h1>
+            <h1 tabindex="0">{{ title|upper }}</h1>
             {% for group in groups %}
-                <article>
-                    <h2>{{ group.title }}</h2>
+                <article id="{{ group.title|lower }}">
+                    <h2 tabindex="0">{{ group.title }}</h2>
                     <table width="100%">
                         <thead>
                             <tr>
@@ -65,10 +76,11 @@
                                         {% endif %}
                                     </td>
                                     <td>
-                                        {{ album.title }}
+                                        <span tabindex="0">
+                                            {{ album.title }}
+                                        </span>
                                     </td>
                                     <td>
-
                                         {% for artist in album.artists %}
                                             <span>{{ artist.name }}</span>
                                             {% if not loop.last %}
@@ -104,11 +116,11 @@
             {% endfor %}
         </main>
         <footer>
-            <h3>Curated by</h3>
+            <h3 tabindex="0">Curated by</h3>
             <p>
-                <span>Twitter: @fthrrhmn31</span>
+                <span tabindex="0">Twitter: @fthrrhmn31</span>
                 <br>
-                <span>Spotify: Aditya Fathurrahman</span>
+                <span tabindex="0">Spotify: Aditya Fathurrahman</span>
             </p>
         </footer>
     </div>
